@@ -37,7 +37,7 @@ def main():
           'city_state':', '.join(x for x in [loc.get('state'),loc.get('country')] if x),'lat':loc.get('latitude'),'lng':loc.get('longitude'),
           'games':[a['name'] for a in e.get('activities',[]) if a['id'] in ACTS] or ['Alpha Clash'],
           'image':e.get('search_preview_image'),'cost':e.get('cost'),'currency':e.get('currency_code'),'capacity':e.get('capacity'),
-          'url':f"https://xpnetwork.com/events/{e["id"]}/details"})
+          'url':f"https://xpnetwork.com/events/{e['id']}/details"})
     ev.sort(key=lambda x:x['start'])
     json.dump({'generated':datetime.datetime.now(datetime.UTC).replace(tzinfo=None).replace(microsecond=0).isoformat()+'Z','source':'api.xpnetwork.com/search/events',
       'method':'activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed',
