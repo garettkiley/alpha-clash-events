@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-12T01:53:51Z",
+ "generated": "2026-10-15T22:40:46Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 163,
+ "count": 164,
  "events": [
   {
    "id": 66,
@@ -3546,6 +3546,28 @@
    "currency": "USD",
    "capacity": 100,
    "url": "https://xpnetwork.com/events/1383/details"
+  },
+  {
+   "id": 1426,
+   "title": "Evento de Prueba",
+   "start": "2026-10-15T22:30:00Z",
+   "end": "2026-10-16T01:00:00Z",
+   "timezone": "America/Santiago",
+   "type": "official",
+   "location_type": "physical",
+   "store": "Magicsur Chile",
+   "address": "Seminario 507, Providencia, 7500000, Chile",
+   "city_state": "CL",
+   "lat": -33.44713187,
+   "lng": -70.62860727,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1426-20261015221657_17904e31-00e8-4172-b9ad-27dca82bc7b5.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 50,
+   "url": "https://xpnetwork.com/events/1426/details"
   },
   {
    "id": 691,
