@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T22:40:46Z",
+ "generated": "2026-10-16T05:40:52Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 164,
+ "count": 165,
  "events": [
   {
    "id": 66,
@@ -3568,6 +3568,28 @@
    "currency": "USD",
    "capacity": 50,
    "url": "https://xpnetwork.com/events/1426/details"
+  },
+  {
+   "id": 1428,
+   "title": "\u26a1\ufe0fTHE AWAKENING TOY SHOGUN\u26a1\ufe0f@GeekPop/PICCC",
+   "start": "2026-10-18T03:00:00Z",
+   "end": "2026-10-18T13:00:00Z",
+   "timezone": "Asia/Manila",
+   "type": "official",
+   "location_type": "physical",
+   "store": "Space ISSY - One Ayala",
+   "address": "2F, Makati, 1224, Philippines",
+   "city_state": "PH",
+   "lat": 14.55047595,
+   "lng": 121.02814546,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1428-20261016053553_3f5d8704-81ad-49e5-88f5-922f3166fafe.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 100,
+   "url": "https://xpnetwork.com/events/1428/details"
   },
   {
    "id": 691,
