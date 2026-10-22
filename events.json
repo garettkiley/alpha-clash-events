@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-16T05:40:52Z",
+ "generated": "2026-10-22T01:44:00Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 165,
+ "count": 166,
  "events": [
   {
    "id": 66,
@@ -3590,6 +3590,28 @@
    "currency": "USD",
    "capacity": 100,
    "url": "https://xpnetwork.com/events/1428/details"
+  },
+  {
+   "id": 1449,
+   "title": "THE CLASHPOINT @ Dragon's Chest",
+   "start": "2026-10-24T05:00:00Z",
+   "end": "2026-10-24T11:00:00Z",
+   "timezone": "Asia/Manila",
+   "type": "casual",
+   "location_type": "physical",
+   "store": "Ketch Department Store",
+   "address": "625, Ketch Building, Quezon City, 1109, Philippines",
+   "city_state": "PH",
+   "lat": 14.62041722,
+   "lng": 121.0501685,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1449-20261022012311_eada793c-565a-475e-8335-fe933e4c48f9.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 100,
+   "url": "https://xpnetwork.com/events/1449/details"
   },
   {
    "id": 691,
