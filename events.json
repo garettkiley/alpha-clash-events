@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T00:49:50Z",
+ "generated": "2026-10-27T08:51:02Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 166,
+ "count": 167,
  "events": [
   {
    "id": 66,
@@ -3612,6 +3612,28 @@
    "currency": "USD",
    "capacity": 100,
    "url": "https://xpnetwork.com/events/1449/details"
+  },
+  {
+   "id": 1490,
+   "title": "GROUNDBREAK CLASH @ Jam & Co Cafe Manggahan Commonwealth",
+   "start": "2026-10-31T06:00:00Z",
+   "end": "2026-10-31T12:00:00Z",
+   "timezone": "Asia/Manila",
+   "type": "casual",
+   "location_type": "virtual",
+   "store": null,
+   "address": null,
+   "city_state": "",
+   "lat": null,
+   "lng": null,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1490-20261027084818_1ae775e9-857d-4ed5-8f63-4577fdb0140f.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 100,
+   "url": "https://xpnetwork.com/events/1490/details"
   },
   {
    "id": 691,
