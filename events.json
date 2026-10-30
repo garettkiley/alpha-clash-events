@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T08:51:02Z",
+ "generated": "2026-10-30T13:03:12Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 167,
+ "count": 168,
  "events": [
   {
    "id": 66,
@@ -3612,6 +3612,28 @@
    "currency": "USD",
    "capacity": 100,
    "url": "https://xpnetwork.com/events/1449/details"
+  },
+  {
+   "id": 1506,
+   "title": "Alpha Clash Cavite Fantastic Friday Clash",
+   "start": "2026-10-30T13:00:00Z",
+   "end": "2026-10-30T17:00:00Z",
+   "timezone": "Asia/Manila",
+   "type": "casual",
+   "location_type": "physical",
+   "store": "Starbucks Imus Anabu",
+   "address": "Imus, 4103, Philippines",
+   "city_state": "PH",
+   "lat": 14.37450315,
+   "lng": 120.93916094,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1506-20261030125829_958a2cbe-4733-4c14-8d1d-596a8f4fe696.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 100,
+   "url": "https://xpnetwork.com/events/1506/details"
   },
   {
    "id": 1490,
