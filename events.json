@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T13:03:12Z",
+ "generated": "2026-11-03T17:57:29Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 168,
+ "count": 169,
  "events": [
   {
    "id": 66,
@@ -3701,6 +3701,28 @@
    "currency": "GBP",
    "capacity": 64,
    "url": "https://xpnetwork.com/events/1362/details"
+  },
+  {
+   "id": 1508,
+   "title": "Alpha Clash Online World Championships 2026",
+   "start": "2026-11-30T23:00:00Z",
+   "end": "2026-12-21T05:59:00Z",
+   "timezone": "America/Chicago",
+   "type": "official",
+   "location_type": "virtual",
+   "store": null,
+   "address": null,
+   "city_state": "",
+   "lat": null,
+   "lng": null,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1508-20261030181243_c7cd83c6-d122-42ac-9191-149b49d464a0.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 32,
+   "url": "https://xpnetwork.com/events/1508/details"
   }
  ]
 }
