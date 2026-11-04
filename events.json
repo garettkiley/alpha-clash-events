@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-03T17:57:29Z",
+ "generated": "2026-11-04T06:06:43Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 169,
+ "count": 170,
  "events": [
   {
    "id": 66,
@@ -3656,6 +3656,28 @@
    "currency": "USD",
    "capacity": 100,
    "url": "https://xpnetwork.com/events/1490/details"
+  },
+  {
+   "id": 1535,
+   "title": "THE CLASHPOINT @ BK SECRET SHOP",
+   "start": "2026-11-07T07:00:00Z",
+   "end": "2026-11-07T14:00:00Z",
+   "timezone": "Asia/Manila",
+   "type": "casual",
+   "location_type": "physical",
+   "store": "BK Secret Shop",
+   "address": "2nd flr, San Jose del Monte, 3023, Philippines",
+   "city_state": "PH",
+   "lat": 14.80346463,
+   "lng": 121.03346865,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1535-20261104054819_be46e105-9e35-4d90-8e7b-7e076256ad4c.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 50,
+   "url": "https://xpnetwork.com/events/1535/details"
   },
   {
    "id": 691,
