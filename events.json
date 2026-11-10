@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-06T13:14:03Z",
+ "generated": "2026-11-10T20:53:28Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 171,
+ "count": 172,
  "events": [
   {
    "id": 66,
@@ -3767,6 +3767,28 @@
    "currency": "USD",
    "capacity": 32,
    "url": "https://xpnetwork.com/events/1508/details"
+  },
+  {
+   "id": 1676,
+   "title": "Clashground: Las Vegas",
+   "start": "2026-12-05T19:00:00Z",
+   "end": "2026-12-07T02:00:00Z",
+   "timezone": "America/Los_Angeles",
+   "type": "official",
+   "location_type": "physical",
+   "store": "9620 South Las Vegas Boulevard",
+   "address": "9620 South Las Vegas Boulevard, Las Vegas, Nevada 89123, United States",
+   "city_state": "NV, US",
+   "lat": 36.014963,
+   "lng": -115.171265,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1676-20261110201931_d659378b-2a2b-4d69-8dea-365cb83fba80.jpg",
+   "cost": 2000,
+   "currency": "USD",
+   "capacity": 48,
+   "url": "https://xpnetwork.com/events/1676/details"
   }
  ]
 }
