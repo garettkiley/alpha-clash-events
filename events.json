@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T20:53:28Z",
+ "generated": "2026-11-12T20:49:02Z",
  "source": "api.xpnetwork.com/search/events",
  "method": "activities=6,394,395 union query=alpha clash; limit=30 offset pagination; dedup by id; private/unpublished/test removed",
- "count": 172,
+ "count": 173,
  "events": [
   {
    "id": 66,
@@ -3700,6 +3700,28 @@
    "currency": "USD",
    "capacity": 50,
    "url": "https://xpnetwork.com/events/1535/details"
+  },
+  {
+   "id": 1713,
+   "title": "Alpha Clash Cavite Terrific Thursday Clash",
+   "start": "2026-11-12T13:15:00Z",
+   "end": "2026-11-12T17:00:00Z",
+   "timezone": "Asia/Manila",
+   "type": "casual",
+   "location_type": "physical",
+   "store": "Starbucks Imus Anabu",
+   "address": "Imus, 4103, Philippines",
+   "city_state": "PH",
+   "lat": 14.37450315,
+   "lng": 120.93916094,
+   "games": [
+    "Alpha Clash"
+   ],
+   "image": "https://cdn-w.xpnetwork.com/events-main-production-images/1394-20261008115036_7bce3253-57a0-4a86-948b-5e77731ea188.jpg",
+   "cost": 0,
+   "currency": "USD",
+   "capacity": 100,
+   "url": "https://xpnetwork.com/events/1713/details"
   },
   {
    "id": 691,
